@@ -1,0 +1,3 @@
+/* 
+    promises are more powerful that callbacks because it are composable
+*/
